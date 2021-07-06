@@ -15,9 +15,11 @@ MAPS:
 (PLEASE WRITE YOUR CODE INSIDE THE MAPS CLASS)
 * Write a Java program to create a HashMap and populate it with 10 Integer Keys and 10 String values
 * Loop through your Map, if the Key is a multiple of 2, print out the value to the console.
-* Print out Every String value from the previous Map that contains the character ‘g’ at the end of the string.
+* Print out Every String value from the previous Map that contains the character g at the end of the string.
 
 
 
 GOOD LUCK
 
+
+Good luck from me Shaz
